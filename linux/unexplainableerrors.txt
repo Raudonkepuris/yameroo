@@ -1,0 +1,2 @@
+malloc(): unsorted double linked list corrupted
+zsh: abort (core dumped)  yameroo -mc 316334

@@ -1,0 +1,6 @@
+pyyaml
+PyMuPDF
+pillow
+requests
+beautifulsoup4
+progressbar2

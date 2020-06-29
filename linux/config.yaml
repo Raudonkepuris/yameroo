@@ -1,0 +1,30 @@
+"animewalp" : {
+  "categories" : "010", #default - 010
+                       #010 - anime
+                       #001 - people
+                       #100 - general
+                       #you can set 011 to get people and anime,
+                        #or 101 for general and people etc
+  "purity" : "010",     #default - 010
+                       #SFW - 100
+                       #NSFW - 010
+                       #both - 110
+  "resolutions" : "1920x1080", #default - 1920x1080
+                              #you can enter any resolution here,
+                                #however if it's not that common
+                                #there might be no results
+  "sorting" : "random", #default - random
+                       #you can use these :
+                        #relevance
+                        #date_added
+                        #views
+                        #favorites
+                        #toplists do not work
+  }
+
+"hentai" : {
+  "path" : "Default" #default - Default
+                      #you can change this to what ever you want
+                      #script will react accordingly
+                      #make sure there's "/" at the end
+}
